@@ -1,4 +1,17 @@
 (() => {
+  /**
+   * @typedef {Object} RecipeHidingConfig
+   * @property {string[]} categories
+   * @property {string[]} recipeIds
+   * @property {Record<string, string[]>} categorizedIds
+   */
+
+  /**
+   * @typedef {Object} RecipeFilter
+   * @property {string} [id]
+   * @property {string} [category]
+   */
+
   const recipeHidingConfig = {
     categories: [
       // "ali:block_loot", // TODO: uncomment when modpack will be made public
@@ -117,8 +130,10 @@
   recipeHidingConfig.categorizedIds["ali:plant_loot"] = parsedPlantLoot;
 
   /**
-   * @param {{categories: Array<string>, recipeIds: Array<string>, categorizedIds: Record<string, Array<string>>}} config Categories, recipe IDs, and categorized IDs to hide
-   * @returns {Array<{id?: string, category?: string}>} Array of recipe filter objects
+   * Turns a configuration into the format expected by EMI
+   *
+   * @param {RecipeHidingConfig} config
+   * @returns {RecipeFilter[]}
    */
   function buildRecipeFilters(config) {
     const filters = [];
@@ -146,7 +161,6 @@
     return filters;
   }
 
-  /** @type {Array<Record<string, string>>} */
   const recipeFilters = buildRecipeFilters(recipeHidingConfig);
 
   ClientEvents.generateAssets("after_mods", (event) => {
