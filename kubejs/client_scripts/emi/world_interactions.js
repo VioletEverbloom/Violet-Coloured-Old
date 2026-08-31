@@ -6,26 +6,6 @@
       output: "item:chimes:carved_bamboo_chimes",
     },
     {
-      left: "item:farmersdelight:roast_chicken_block",
-      right: "item:minecraft:bowl",
-      output: "item:farmersdelight:roast_chicken",
-    },
-    {
-      left: "item:farmersdelight:stuffed_pumpkin_block",
-      right: "item:minecraft:bowl",
-      output: "item:farmersdelight:stuffed_pumpkin",
-    },
-    {
-      left: "item:farmersdelight:honey_glazed_ham_block",
-      right: "item:minecraft:bowl",
-      output: "item:farmersdelight:honey_glazed_ham",
-    },
-    {
-      left: "item:farmersdelight:shepherds_pie_block",
-      right: "item:minecraft:bowl",
-      output: "item:farmersdelight:shepherds_pie",
-    },
-    {
       left: "item:brewinandchewin:fiery_fondue_pot",
       right: "item:minecraft:bowl",
       output: "item:brewinandchewin:fiery_fondue",
