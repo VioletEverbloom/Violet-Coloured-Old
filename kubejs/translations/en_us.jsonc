@@ -12,11 +12,6 @@
     "block.hearthandharvest.green_grape_crate": "White Grape Crate",
     "block.hearthandharvest.jar": "Jam Jar"
   },
-  "inventoryprofilesnext": {
-    "inventoryprofiles.tooltip.sort_button": "Sort",
-    "inventoryprofiles.tooltip.sort_button.current_order": "",
-    "inventoryprofiles.tooltip.move_all_button.move_all": "§8§o%s§r§8 - Move All"
-  },
   "measurements": {
     "item.measurements.tape_measure": "Abacus"
   },
@@ -41,9 +36,6 @@
     "item.violetcoloured.red_grape_juice": "Red Wine",
     "item.violetcoloured.white_grape_juice": "White Wine",
     "item.violetcoloured.apple_juice": "Apple Juice",
-    "key.ipn.sort_inventory": "Sort Inventory",
-    "key.ipn.move_all_items": "Move Items In Chest",
-    "key.ipn.copy_item_id": "Copy Item ID",
     "key.categories.remove_when_done": "Remove When Done",
     "violetcoloured.tooltip.holdForDescription": "Hold [%1$s] for Summary",
     "violetcoloured.tooltip.keyShift": "Shift",
