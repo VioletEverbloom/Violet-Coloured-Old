@@ -25,13 +25,11 @@
       // "emi:/anvil/enchanting/.*", // TODO: uncomment when modpack will be made public
       "emi:/crafting/repairing/.*",
       "emi:/anvil/repairing/tool/.*",
-      "emi:/anvil/repairing/material/vinery/.*",
       "emi:/grindstone/repairing/.*",
       "emi:/grindstone/disenchanting/.*",
       "supplementaries:ash_burn",
       "supplementaries:/tipped_spikes.*",
       "supplementaries:/inject/test",
-      "vinery:/blocks/potted_dark_cherry_sapling",
       "minecraft:/shearing/bogged",
       "minecraft:/gameplay/cat_morning_gift",
       "minecraft:/gameplay/panda_sneeze",
@@ -118,8 +116,6 @@
     "quark:water_pink_petals",
     "farmersdelight:budding_tomatoes",
     "farmersdelight:rice",
-    "vinery:red_grape_bush",
-    "vinery:white_grape_bush",
   ];
 
   const parsedPlantLoot = [];

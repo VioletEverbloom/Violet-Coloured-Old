@@ -9,32 +9,6 @@
   const COOKING_RECIPES = [
     {
       ingredients: [
-        "vinery:red_grape",
-        "vinery:red_grape",
-        "vinery:red_grape",
-        "minecraft:sugar",
-        "minecraft:sugar",
-        "minecraft:sugar",
-      ],
-      result: "hearthandharvest:grape_jam",
-      container: "hearthandharvest:jar",
-      time: 400,
-    },
-    {
-      ingredients: [
-        "vinery:cherry",
-        "vinery:cherry",
-        "vinery:cherry",
-        "minecraft:sugar",
-        "minecraft:sugar",
-        "minecraft:sugar",
-      ],
-      result: "hearthandharvest:cherry_jam",
-      container: "hearthandharvest:jar",
-      time: 400,
-    },
-    {
-      ingredients: [
         "minecraft:cooked_porkchop",
         "#c:dusts/salt",
         "#c:foods/milk",
@@ -121,15 +95,6 @@
         "#brewinandchewin:foods/cheese_wedge",
         "farmersdelight:tomato",
         "#c:foods/cabbage",
-      ],
-    },
-    {
-      result: "hearthandharvest:cherry_juice",
-      ingredients: [
-        "vinery:cherry",
-        "vinery:cherry",
-        "minecraft:sugar",
-        "minecraft:glass_bottle",
       ],
     },
     {

@@ -17,7 +17,6 @@
         "#supplementaries:flags",
         // TODO: Glass ?
       ],
-      "mineable/shovel": ["vinery:dirt_path_slab"],
       "mineable/hoe": [
         "minecraft:cactus",
         "minecraft:ochre_froglight",

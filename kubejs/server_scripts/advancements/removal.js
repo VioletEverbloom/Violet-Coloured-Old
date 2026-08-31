@@ -68,28 +68,6 @@
     ],
     "supplementaries:nether": ["goblet"],
     "supplementaries:story": ["unenchanter"],
-    "vinery:main": [
-      "budding_grapes",
-      "cherry_picker",
-      "forbidden_fruit",
-      "fruits_of_the_field",
-      "grape_picker",
-      "juice_it_up",
-      "juicy_success",
-      "mashy_success",
-      "nectar_of_life",
-      "overgrown_lattices",
-      "purely_apple",
-      "root",
-      "sowing_the_future",
-      "the_first_press",
-      "the_magic_of_the_barrel",
-      "the_noble_drop",
-      "vineyard_visionary",
-      "vintage_perfection",
-      "wild_harvest",
-      "wine_somelier",
-    ],
   };
   const removedAdvancements = [];
 

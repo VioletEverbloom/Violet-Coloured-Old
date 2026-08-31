@@ -15,13 +15,6 @@
     blocksToSelfDrop.push(`minecraft:${color}_stained_glass_pane`);
   }
 
-  const silkTouchBlocks = [
-    {
-      id: "vinery:grass_slab",
-      defaultDropId: "vinery:dirt_slab",
-    },
-  ];
-
   /**
    * @param {LootTableEvent} event
    * @param {string} blockId

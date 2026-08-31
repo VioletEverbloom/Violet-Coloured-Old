@@ -61,7 +61,7 @@
 
 [whitelist]
 	#Blocks that CAN be picked up (useWhitelistBlocks must be true)
-	allowedBlocks = ["minecraft:chest", "minecraft:barrel", "minecraft:*shulker_box", "minecraft:ender_chest", "minecraft:trapped_chest", "minecraft:chiseled_bookshelf", "hearthandharvest:*_bottle_rack", "hearthandharvest:crate", "quark:*_chest", "farmersdelight:*_cabinet", "hearthandharvest:*_half_cabinet", "vinery:dark_cherry_cabinet", "hearthandharvest:drawer", "supplementaries:sack", "suppsquared:sack_*", "farmersdelight:basket"]
+	allowedBlocks = ["minecraft:chest", "minecraft:barrel", "minecraft:*shulker_box", "minecraft:ender_chest", "minecraft:trapped_chest", "minecraft:chiseled_bookshelf", "hearthandharvest:*_bottle_rack", "hearthandharvest:crate", "quark:*_chest", "farmersdelight:*_cabinet", "hearthandharvest:*_half_cabinet", "hearthandharvest:drawer", "supplementaries:sack", "suppsquared:sack_*", "farmersdelight:basket"]
 	#Whitelist. Read about the format here: https://github.com/Tschipp/CarryOn/wiki/Black---and-Whitelist-Config
 	#Entities that CAN be picked up (useWhitelistEntities must be true)
 	allowedEntities = []

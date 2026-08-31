@@ -6365,47 +6365,6 @@
             ]
         },
         {
-            "pakku_id": "uYIVU1LjZTeJI9U8",
-            "pakku_links": [
-                "1zliknSgHV8OJEPg"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "lets-do-vinery"
-            },
-            "name": {
-                "curseforge": "[Let's Do] Vinery"
-            },
-            "id": {
-                "curseforge": "704465"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "letsdo-vinery-neoforge-1.5.3.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/7539/914/letsdo-vinery-neoforge-1.5.3.jar",
-                    "id": "7539914",
-                    "parent_id": "704465",
-                    "hashes": {
-                        "sha1": "e920dbb720c2c010c45b137d195a5cc72a9afdd2",
-                        "md5": "a669653659a18677eb240353a0a135ab"
-                    },
-                    "required_dependencies": [
-                        "419699"
-                    ],
-                    "size": 2001616,
-                    "date_published": "2026-01-28T07:40:49.523Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "YPlTyJCUtHz9fIuG",
             "type": "MOD",
             "slug": {

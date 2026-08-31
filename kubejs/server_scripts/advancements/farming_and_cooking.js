@@ -50,13 +50,6 @@
       criteria: Criteria.consumeAll(Registry.fermentedDrinks),
     },
     {
-      id: "have_all_wines",
-      parent: "brew_drink",
-      icon: "vinery:noir_wine",
-      type: "challenge",
-      criteria: Criteria.hasAllItems("wines", Registry.wines),
-    },
-    {
       id: "ferment_cheese",
       parent: "place_keg",
       icon: "brewinandchewin:unripe_flaxen_cheese_wheel",

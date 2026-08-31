@@ -9,9 +9,3 @@ Texture : [overlay_new.png](../kubejs/assets/inventoryprofilesnext/textures/gui/
 Source : [Inventory Profiles Next](https://codeberg.org/Inventory-Profiles-Next-Mod/IPN)  
 Author : [mirinimi](https://www.curseforge.com/members/mirinimi/projects)  
 License : [GNU Affero General Public License v3.0](../LICENSES/AGPL-3.0)
-
-Texture : [wine_bottle.png](../kubejs/assets/violetcoloured/textures/block/wine_bottle.png)  
-Model : [wineBottleModel](../kubejs/client_scripts/mod_specific/vinery/hearthandharvest_compat.js)  
-Source : [Hearth and Harvest](https://www.curseforge.com/minecraft/mc-mods/hearth-and-harvest)  
-Author : [AlabasterLeking](https://www.curseforge.com/members/alabasterleking/projects)  
-License and Copyright : [MIT](../LICENSES/MIT-Hearth-and-Harvest)

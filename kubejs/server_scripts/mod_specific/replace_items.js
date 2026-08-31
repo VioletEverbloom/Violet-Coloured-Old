@@ -7,18 +7,6 @@
       old_item: "farmersdelight:rope",
       new_item: "supplementaries:rope",
     },
-    {
-      old_item: "hearthandharvest:red_grapes",
-      new_item: "vinery:red_grape",
-    },
-    {
-      old_item: "hearthandharvest:green_grapes",
-      new_item: "vinery:white_grape",
-    },
-    {
-      old_item: "hearthandharvest:cherry",
-      new_item: "vinery:cherry",
-    },
   ];
 
   ServerEvents.recipes((event) => {
