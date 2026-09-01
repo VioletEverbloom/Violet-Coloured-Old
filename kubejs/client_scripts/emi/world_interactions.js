@@ -6,21 +6,6 @@
       output: "item:chimes:carved_bamboo_chimes",
     },
     {
-      left: "item:brewinandchewin:fiery_fondue_pot",
-      right: "item:minecraft:bowl",
-      output: "item:brewinandchewin:fiery_fondue",
-    },
-    {
-      left: "item:minecraft:cow_spawn_egg",
-      right: "item:minecraft:bucket",
-      output: "item:minecraft:milk_bucket",
-    },
-    {
-      left: "item:minecraft:goat_spawn_egg",
-      right: "item:minecraft:bucket",
-      output: "item:minecraft:milk_bucket",
-    },
-    {
       left: "#block:hearthandharvest:tappable",
       right: "item:hearthandharvest:tree_tapper",
       output: "item:hearthandharvest:sap_bucket",
