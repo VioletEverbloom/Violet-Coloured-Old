@@ -29,16 +29,6 @@
     },
     {
       ingredients: [
-        "farmersdelight:onion",
-        "farmersdelight:onion",
-        "#c:drinks/milk",
-        "#brewinandchewin:foods/cheese_wedge",
-      ],
-      result: "hearthandharvest:onion_soup",
-      container: "minecraft:bowl",
-    },
-    {
-      ingredients: [
         "farmersdelight:wheat_dough",
         "hearthandharvest:syrup_bottle",
       ],
