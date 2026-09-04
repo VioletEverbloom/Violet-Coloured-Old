@@ -6,11 +6,6 @@
       output: "item:chimes:carved_bamboo_chimes",
     },
     {
-      left: "#block:hearthandharvest:tappable",
-      right: "item:hearthandharvest:tree_tapper",
-      output: "item:hearthandharvest:sap_bucket",
-    },
-    {
       left: "#block:minecraft:logs_that_burn",
       right: "item:minecraft:flint_and_steel",
       output: "item:supplementaries:ash",

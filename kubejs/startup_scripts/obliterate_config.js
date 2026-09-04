@@ -3,83 +3,6 @@
 (() => {
   /** @typedef {Object.<string, Array<string|RegExp>>} ObliteratedPatterns */
   const obliteratedPatterns = {
-    brewinandchewin: [
-      "apple_jelly",
-      "glow_berry_marmalade",
-      "sweet_berry_jam",
-      "kombucha", // Disabled normally, but still appears in some places
-    ],
-    cratedelight: [
-      // Replaced by Quark and Hearth and Harvest
-      "egg_crate",
-      "berry_crate",
-      "glowberry_crate",
-      "red_mushroom_crate",
-      "brown_mushroom_crate",
-      "gunpowder_bag",
-    ],
-    farmersdelight: ["rope", "tree_bark"],
-    hearthandharvest: [
-      /.*cleaver/,
-      /.*sausage/,
-      "universal_feed",
-      "cooking_oil",
-      "elote",
-      "tamale",
-      "trail_mix",
-      "sunflower_seeds",
-      "hay_rug",
-      "straw_rug",
-      "jerky",
-      "cask",
-      "jug",
-      "tortilla",
-      "batter",
-      "flour",
-      "corn_meal",
-      "butter",
-      "crow_feather",
-      // Milk and cheese
-      "goat_milk_bottle",
-      "unripe_cheddar_cheese_wheel",
-      "cheddar_cheese_wheel",
-      "cheddar_cheese_slice",
-      "unripe_goat_cheese_wheel",
-      "goat_cheese_wheel",
-      "goat_cheese_slice",
-      /hard_cider.*/,
-      /mead.*/,
-      /root_beer.*/,
-      "moonshine",
-      // Removed plants and associated items
-      /corn_husk.*/,
-      /.*cotton(?!_candy).*/,
-      "raisins",
-      /raspberry.*/,
-      /.*peanut.*/,
-      /blueberr.*/,
-      /.*mum/,
-      // Storage blocks replaced by Crate Delight
-      "apple_crate",
-      "cocoa_bean_bag",
-      "glow_berry_crate",
-      "golden_apple_crate",
-      "golden_carrot_crate",
-      "gunpowder_bag",
-      "poisonous_potato_crate",
-      "sugar_bag",
-      "sweet_berry_crate",
-      // Deprecated Crates
-      "egg_crate",
-      "turtle_egg_crate",
-      "milk_crate",
-      "goat_milk_crate",
-      "red_grape_wine_crate",
-      "green_grape_wine_crate",
-      "water_crate",
-      "honey_crate",
-      "syrup_crate",
-    ],
     horseman: ["copper_horn"],
     quark: [
       // Automation
@@ -160,8 +83,6 @@
     "farmersdelight:farmersdelight",
     "cratedelight:cratedelight_tab",
     "brewinandchewin:brewinandchewin",
-    "hearthandharvest:hearthandharvest",
-    "hearthandharvest:hearthandharvest_blocks",
   ];
 
   /** @type {Array<string|RegExp>} */

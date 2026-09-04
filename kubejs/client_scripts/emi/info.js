@@ -19,13 +19,6 @@
       stacks: ["item:hearthandharvest:corn"],
       translationKey: "emi.info.corn",
     },
-    {
-      stacks: [
-        "item:hearthandharvest:syrup_bottle",
-        // "item:hearthandharvest:sap_bucket", // TODO Remove when base tooltips will have been removed
-      ],
-      translationKey: "hearthandharvest.jei.info.sap_bucket",
-    },
   ];
 
   ClientEvents.generateAssets("after_mods", (event) => {
