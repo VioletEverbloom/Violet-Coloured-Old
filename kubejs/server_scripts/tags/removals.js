@@ -33,7 +33,6 @@
       "supplementaries:water_holder",
     ],
     entity_type: [
-      "hearthandharvest:can_be_butchered",
       "horseman:cannot_swim",
       "supplementaries:cage_catchable",
       "supplementaries:cage_baby_catchable",
